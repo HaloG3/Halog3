@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Rao</h1>
 <h3 align="center">A enthusiastic Machine Learning & AI developer from India.</h3>
 <image align ="right" alt="Artificial intelligence"width="480" src="https://gifer.com/en/QVko">
-
+<iframe src="https://gifer.com/embed/QVko" width=480 height=722.257 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halog3&label=Profile%20views&color=0e75b6&style=flat" alt="halog3" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=halog3" alt="halog3" /></a> </p>
