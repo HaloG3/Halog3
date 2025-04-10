@@ -9,15 +9,15 @@
 
 - 🔭 I’m currently working on **AI-Driven Crop Disease Prediction and Management System**
 
-- 🌱 I’m currently learning **Django, React, Angular & python lib for ML**
+- 🌱 I’m currently learning **LLMs NLPDjango, python lib for ML**
 
 - 👯 I’m looking to collaborate on **AI-Driven Crop Disease Prediction and Management System**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/mohitrao2022](www.linkedin.com/in/mohitrao2022)
-
+[https://halog3.github.io/portfolio/](https://halog3.github.io/portfolio/)
 - 📝 I regularly post articles on youtube [www.youtube.com/@mo16hit](www.youtube.com/@mo16hit)
 
-- 💬 Ask me about **python, C++, Artificial Intelligence, Machine learning, Public speaking**
+- 💬 Ask me about **python,  Artificial Intelligence, Machine learning,LLM,NLP SLMs Public speaking**
 
 - 📫 How to reach me( just mail) **mohitraoiitb@gmail.com**
 
