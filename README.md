@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=halog3" alt="halog3" /></a> </p>
 
-- 🔭 I’m currently working on **AI-Driven Crop Disease Prediction and Management System**
+- 🔭 I’m currently working on ** LLMs and AI agents and use of  AI eg:- n8n, loveable and other to enahance my productivity **
 
-- 🌱 I’m currently learning **LLMs NLPDjango, python lib for ML**
+- 🌱 I’m currently learning **AI agent building and  API building in python for these AI  models **
 
-- 👯 I’m looking to collaborate on **AI-Driven Crop Disease Prediction and Management System**
+- 👯 I’m looking to collaborate on **  My projects DEEPFAKE AUDIO DETEFCTION ** 
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/mohitrao2022](www.linkedin.com/in/mohitrao2022)
 [https://halog3.github.io/portfolio/](https://halog3.github.io/portfolio/)
