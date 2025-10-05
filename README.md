@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=halog3" alt="halog3" /></a> </p>
 
-- 🔭 I’m currently working on ** LLMs and AI agents and use of  AI eg:- n8n, loveable and other to enahance my productivity **
+- 🔭 I’m currently working on ** Building RAGs and AI agents and use of  AI eg:- n8n, loveable and other to enahance my productivity **
 
 - 🌱 I’m currently learning **AI agent building and  API building in python for these AI  models **
 
