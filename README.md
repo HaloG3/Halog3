@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **AI agent building and  API building in python for these AI  models **
 
-- 👯 I’m looking to collaborate on **  My projects DEEPFAKE AUDIO DETEFCTION ** 
 
-- 👨‍💻 All of my projects information are available at [www.linkedin.com/in/mohitrao2022](www.linkedin.com/in/mohitrao2022)
+
+- 👨‍💻 All of my projects information are available at 
 [https://halog3.github.io/portfolio/](https://halog3.github.io/portfolio/)
-- 📝 I regularly post demo and articles on youtube [www.youtube.com/@mo16hit](www.youtube.com/@mo16hit)
+-
 
 - 💬 Ask me about **python,  Artificial Intelligence, Machine learning,LLM,NLP SLMs Public speaking**
 
